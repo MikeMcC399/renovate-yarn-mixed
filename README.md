@@ -1,5 +1,7 @@
 # Yarn v4 lock file maintenance fails in monorepo with Yarn v1
 
+Issue logged on https://github.com/renovatebot/renovate/discussions/46381
+
 ## Current behavior
 
 If both Yarn v1 Classic and Yarn v4 Modern (aka berry) projects are mixed in a GitHub monorepo and both are enabled for lock file maintenance, then the Yarn v4 projects may fail to update lock files with an error message similar to:
