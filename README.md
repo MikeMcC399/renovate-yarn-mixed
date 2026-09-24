@@ -28,7 +28,7 @@ This issue was previously observed in https://github.com/cypress-io/github-actio
 
 ## Expected behavior
 
-`lockFileMaintenance` should allow updating a mixture of Yarn v1 and Yarn v2 in the same repository.
+`lockFileMaintenance` should allow updating a mixture of Yarn v1 and Yarn v4 in the same repository.
 
 ## Assessment
 
