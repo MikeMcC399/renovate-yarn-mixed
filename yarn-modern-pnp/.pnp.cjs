@@ -28,7 +28,7 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["cypress", "npm:16.2.1"],\
+          ["cypress", "npm:16.3.0"],\
           ["example-yarn-modern", "workspace:."]\
         ],\
         "linkType": "SOFT"\
@@ -468,8 +468,8 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["cypress", [\
-      ["npm:16.2.1", {\
-        "packageLocation": "./.yarn/unplugged/cypress-npm-16.2.1-282d90b57b/node_modules/cypress/",\
+      ["npm:16.3.0", {\
+        "packageLocation": "./.yarn/unplugged/cypress-npm-16.3.0-23a1196f72/node_modules/cypress/",\
         "packageDependencies": [\
           ["@cypress/request", "npm:4.0.1"],\
           ["@cypress/xvfb", "npm:1.2.4"],\
@@ -487,9 +487,9 @@ const RAW_RUNTIME_STATE =
           ["cli-table3", "npm:0.6.1"],\
           ["commander", "npm:6.2.1"],\
           ["common-tags", "npm:1.8.2"],\
-          ["cypress", "npm:16.2.1"],\
+          ["cypress", "npm:16.3.0"],\
           ["dayjs", "npm:1.11.23"],\
-          ["debug", "virtual:282d90b57b915672b91b63d4f66864d85c6e22841f51a6e154c1cefd34e12cc847f8db922dd3f3cd98c472e229416f1069c2e8a2af48a475e356000627db10fe#npm:4.4.3"],\
+          ["debug", "virtual:23a1196f72e75593ae626f3e5c0612975fd38f2ee76b12f37c1d06d0de1b89b3d86ebda91887502774b1e5e1d3278e2549a5869966a7e6bd1592c67b4808afda#npm:4.4.3"],\
           ["eventemitter2", "npm:6.4.7"],\
           ["execa", "npm:4.1.0"],\
           ["executable", "npm:4.1.1"],\
@@ -549,11 +549,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:282d90b57b915672b91b63d4f66864d85c6e22841f51a6e154c1cefd34e12cc847f8db922dd3f3cd98c472e229416f1069c2e8a2af48a475e356000627db10fe#npm:4.4.3", {\
-        "packageLocation": "./.yarn/__virtual__/debug-virtual-53416ea785/8/runner/cache/others/berry/cache/debug-npm-4.4.3-0105c6123a-10c0.zip/node_modules/debug/",\
+      ["virtual:23a1196f72e75593ae626f3e5c0612975fd38f2ee76b12f37c1d06d0de1b89b3d86ebda91887502774b1e5e1d3278e2549a5869966a7e6bd1592c67b4808afda#npm:4.4.3", {\
+        "packageLocation": "./.yarn/__virtual__/debug-virtual-38281dd670/8/runner/cache/others/berry/cache/debug-npm-4.4.3-0105c6123a-10c0.zip/node_modules/debug/",\
         "packageDependencies": [\
           ["@types/supports-color", null],\
-          ["debug", "virtual:282d90b57b915672b91b63d4f66864d85c6e22841f51a6e154c1cefd34e12cc847f8db922dd3f3cd98c472e229416f1069c2e8a2af48a475e356000627db10fe#npm:4.4.3"],\
+          ["debug", "virtual:23a1196f72e75593ae626f3e5c0612975fd38f2ee76b12f37c1d06d0de1b89b3d86ebda91887502774b1e5e1d3278e2549a5869966a7e6bd1592c67b4808afda#npm:4.4.3"],\
           ["ms", "npm:2.1.3"],\
           ["supports-color", "npm:8.1.1"]\
         ],\
@@ -708,7 +708,7 @@ const RAW_RUNTIME_STATE =
       ["workspace:.", {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["cypress", "npm:16.2.1"],\
+          ["cypress", "npm:16.3.0"],\
           ["example-yarn-modern", "workspace:."]\
         ],\
         "linkType": "SOFT"\
